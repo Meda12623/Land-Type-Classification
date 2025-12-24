@@ -39,7 +39,7 @@ The dataset is available via [Zenodo](https://zenodo.org/record/7711810#.ZAm3k-z
 
 ### EuroSAT Benchmark for Land Use Classification
 <a name="eurosat-benchmark-for-land-use-classification"></a>
-- [eurosat_paper (1).pdf](#eurosat-paper-1pdf)  
+- [eurosat_paper (1).pdf](https://github.com/Meda12623/Land-Type-Classification/blob/main/EuroSAT%20Benchmark%20for%20Land%20Use%20Classification/eurosat_paper%20(1).pdf)  
   <a name="eurosat-paper-1pdf"></a>
   Contains the research paper documenting the benchmark results of the EuroSAT dataset.
 
