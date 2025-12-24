@@ -105,8 +105,7 @@ The dataset is available via [Zenodo](https://zenodo.org/record/7711810#.ZAm3k-z
   Documentation for the project.
 
 
-
-  ## 👥 Team Contributions
+ ## 👥 Team Contributions
 
 ### Bassem Akram
 **Worked on:**  
@@ -123,10 +122,46 @@ The dataset is available via [Zenodo](https://zenodo.org/record/7711810#.ZAm3k-z
     
 ### Mina Ibrahim
 **Worked on:** 
-- Model testing and inference 
+- Model testing and inference
 
 ### Ahmed Khaled
 **Worked on:**  
 - GUI implementation and application running
+
+---
+
+## 🧰 Technologies Used
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)  
+[![Rasterio](https://img.shields.io/badge/Rasterio-4B9CD3?style=for-the-badge&logo=&logoColor=white)](https://rasterio.readthedocs.io/en/latest/)   
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)  
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org)  
+
+---
+
+
+
+## Contact 
+
+For any questions, reach out to the team members:
+
+- Ahmed Khaled  
+[Email](mailto:ahmed.ghaith979@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmedkhaled369/) | [Kaggle](https://www.kaggle.com/ahmedkhaled369)
+
+- Hend Ramadan  
+[Email](mailto:hendtalba@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hend-ramadan-72a9712a5) | [Kaggle](https://www.kaggle.com/hannod)
+
+- Mina Ibrahim  
+[Email](mailto:minaibrahim365@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mina-ibrahim-ab7472313/) | [Kaggle](https://www.kaggle.com/minaibrahim22)
+
+- Menna Nour  
+[Email](mailto:menna.nour@example.com) | [LinkedIn](https://www.linkedin.com/in/menna-nour/)  
+
+- Bassem Akram  
+[Email](mailto:bassem.akram@example.com) | [LinkedIn](https://www.linkedin.com/in/bassem-akram/)  
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>  
+  
 
 
