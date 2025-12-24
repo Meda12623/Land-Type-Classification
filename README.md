@@ -8,3 +8,8 @@ In this study, we address the challenge of land use and land cover classificatio
 
 ### Dataset
 The dataset is available via [Zenodo](https://zenodo.org/record/7711810#.ZAm3k-zMKEA).
+## 🎯 Project Objective
+The main objective of this project is to build a practical benchmark pipeline
+for land use and land cover classification using the EuroSAT dataset.
+The project focuses on preprocessing satellite images, training classification models,
+and evaluating their performance on unseen data.
