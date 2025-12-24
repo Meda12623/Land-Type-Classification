@@ -9,7 +9,7 @@ In this study, we address the challenge of land use and land cover classificatio
 ### Dataset
 The dataset is available via [Zenodo](https://zenodo.org/record/7711810#.ZAm3k-zMKEA).
 
-## 📁 Project Structure
+##  Project Structure
 
 - [EuroSAT Benchmark for Land Use Classification](#eurosat-benchmark-for-land-use-classification)
   - [eurosat_paper (1).pdf](#eurosat-paper-1pdf)
@@ -35,7 +35,7 @@ The dataset is available via [Zenodo](https://zenodo.org/record/7711810#.ZAm3k-z
 
 ---
 
-## 📂 Folder & File Description
+##  Folder & File Description
 ### EuroSAT Benchmark for Land Use Classification
 <a name="eurosat-benchmark-for-land-use-classification"></a>
 - [eurosat_paper (1).pdf](#eurosat-paper-1pdf)
@@ -103,3 +103,30 @@ The dataset is available via [Zenodo](https://zenodo.org/record/7711810#.ZAm3k-z
 - [README.md](#readmemd)  
   <a name="readmemd"></a>
   Documentation for the project.
+
+
+
+  ## 👥 Team Contributions
+
+### Bassem Akram
+**Worked on:**  
+- Data cleaning and Analysis 
+- Feature engineering
+
+### Hend Ramadan
+**Worked on:**
+- Model design
+
+### Menna Nour
+**Worked on:**   
+- Model training  
+    
+### Mina Ibrahim
+**Worked on:** 
+- Model testing and inference 
+
+### Ahmed Khaled
+**Worked on:**  
+- GUI implementation and application running
+
+
