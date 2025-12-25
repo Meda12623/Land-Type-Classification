@@ -42,8 +42,6 @@ The dataset is available via [Zenodo](https://zenodo.org/record/7711810#.ZAm3k-z
   
   <a name="eurosat-paper-1pdf"></a>
   Contains the research paper documenting the benchmark results of the EuroSAT dataset. 
-ظبطلي دي
-
 
 ### notebook
 <a name="notebook"></a>
