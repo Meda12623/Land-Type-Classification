@@ -132,9 +132,14 @@ The dataset is available via [Zenodo](https://zenodo.org/record/7711810#.ZAm3k-z
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)  
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)  
-[![Rasterio](https://img.shields.io/badge/Rasterio-4B9CD3?style=for-the-badge&logo=&logoColor=white)](https://rasterio.readthedocs.io/en/latest/)   
+[![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/vision/stable/index.html)  
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)  
+[![Rasterio](https://img.shields.io/badge/Rasterio-4B9CD3?style=for-the-badge&logo=&logoColor=white)](https://rasterio.readthedocs.io/en/latest/)  
+[![TQDM](https://img.shields.io/badge/TQDM-4B9CD3?style=for-the-badge&logo=&logoColor=white)](https://tqdm.github.io/)  
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org)  
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)  
+[![Seaborn](https://img.shields.io/badge/Seaborn-4B7BEC?style=for-the-badge&logo=&logoColor=white)](https://seaborn.pydata.org)
+ 
 
 ---
 
