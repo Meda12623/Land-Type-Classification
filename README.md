@@ -162,7 +162,7 @@ For any questions, reach out to the team members:
 [Email](mailto:menna.nour@example.com) | [LinkedIn](https://www.linkedin.com/in/menna-eldemerdash/)  | [Kaggle](https://www.kaggle.com/minaibrahim22)
 
 - Bassem Akram  
-[Email](mailto:basemakram560@gmail.com) | [LinkedIn](www.linkedin.com/in/basem-younis-7837723a1)  |  [Kaggle](https://www.kaggle.com/basemakram)
+[Email](mailto:basemakram560@gmail.com) | [LinkedIn](www.linkedin.com/in/basem-younis-7837723a1/)  |  [Kaggle](https://www.kaggle.com/basemakram)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>  
   
